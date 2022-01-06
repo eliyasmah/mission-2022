@@ -72,21 +72,17 @@ h2{
     width: 400px;
 }
 .Courses-offer{
-    background-color: rgb(53, 50, 50);
+    background-color: rgb(54, 50, 50);
     margin-left: 30px;
-    padding: 10px;
-    width: 30%;
-    height: 335px;
+    padding: 50px;
     color: white;
-    border-radius: 10px;
-    box-shadow: 10px 10px 15px black;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px black;
 }
-.Courses-offer h2{
-    text-align: center;
-}
-.mission-container img{
-    width: 65%;
-    margin-left: 50px;
+.course-image{
+    width: 350px;
+    height: 400px;
+    margin-left: 150px;
     border-radius: 20px;
 }
 footer{
