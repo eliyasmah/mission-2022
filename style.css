@@ -35,17 +35,16 @@ h2{
 }
 .my-mission{
     margin: 0 auto;
-    margin-bottom: 50px;
+    margin-bottom: 60px;
 }
 .my-mission h1{
     text-align: center;
     margin-top: 50px;
 }
 .future-work{
-    background-color: rgb(231, 225, 231);
     border-radius: 20px;
     padding: 15px;
-    margin: 3%;
+    margin: 1%;
     
 }
 .future-work img{
@@ -54,11 +53,41 @@ h2{
 .future-work h3{
     font-weight: bolder;
 }
+.mission-style{
+    background-color: rgb(231, 225, 231);
+    width: 90%;
+}
+.visson-style{
+    background-color: rgb(209, 199, 209);
+    width: 90%;
+}
+.goals-style{
+    background-color: rgb(240, 181, 240);
+    width: 90%;
+}
 .develop-style{
     margin-left: 5%;
 }
 .develop-style img{
     width: 400px;
+}
+.Courses-offer{
+    background-color: rgb(53, 50, 50);
+    margin-left: 30px;
+    padding: 10px;
+    width: 30%;
+    height: 335px;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 15px black;
+}
+.Courses-offer h2{
+    text-align: center;
+}
+.mission-container img{
+    width: 65%;
+    margin-left: 50px;
+    border-radius: 20px;
 }
 footer{
     background-color: rgb(17, 15, 15);
